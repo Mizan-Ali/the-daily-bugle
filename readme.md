@@ -1,7 +1,5 @@
-Certainly! Below is a basic outline for your `README.md` file:
-
----
-
+WORK IN PROGRESS!!!
+========
 # The Daily Bugle
 
 ## Overview
